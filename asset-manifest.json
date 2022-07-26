@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-crypto-app/static/css/main.addb878a.css",
+    "main.js": "/react-crypto-app/static/js/main.d7c8bde9.js",
+    "static/media/pexels-bruno-scramgnon-5007442.jpg": "/react-crypto-app/static/media/pexels-bruno-scramgnon-5007442.e13e84ffc8b94cf57751.jpg",
+    "index.html": "/react-crypto-app/index.html",
+    "main.addb878a.css.map": "/react-crypto-app/static/css/main.addb878a.css.map",
+    "main.d7c8bde9.js.map": "/react-crypto-app/static/js/main.d7c8bde9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addb878a.css",
+    "static/js/main.d7c8bde9.js"
+  ]
+}
